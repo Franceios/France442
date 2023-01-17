@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on Web dev peojects
-- 📫 How to reach me francecen@gmail.com
+- 📫 Wanna Work on Something? francecen@gmail.com
 
 <!---
 France442/France442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

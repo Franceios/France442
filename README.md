@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @France442
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on Web dev peojects
+- 💞️ I’m looking to collaborate on Web dev projects
 - 📫 Wanna Work on Something? francecen@gmail.com
 
 <!---

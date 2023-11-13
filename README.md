@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=france442&show_icons=true&locale=en&layout=compact" alt="france442" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=france442&" alt="france442" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franceios&" alt="france442" /></p>
